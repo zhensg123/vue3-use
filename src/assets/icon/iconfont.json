@@ -1,0 +1,44 @@
+{
+  "id": "2621687",
+  "name": "importantjsex",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "245059",
+      "name": "浏览器",
+      "font_class": "liulanqi",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "554410",
+      "name": "数据",
+      "font_class": "iconset0357",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    },
+    {
+      "icon_id": "755620",
+      "name": "组件",
+      "font_class": "zujian",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "1394733",
+      "name": "模式",
+      "font_class": "82",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "5243824",
+      "name": "函数",
+      "font_class": "hanshu",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    }
+  ]
+}
